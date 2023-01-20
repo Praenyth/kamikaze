@@ -1,0 +1,9 @@
+
+name: Kamikaze
+version: '${project.version}'
+main: awesome.praenyth.plugins.kamikaze.Kamikaze
+api-version: 1.19
+prefix: Kamikaze
+authors: [ Prae ]
+description: Prevents killing in an interesting way...
+website: https://github.com/Praenyth
