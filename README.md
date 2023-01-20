@@ -1,2 +1,2 @@
 # Kamikaze
-A simple plugin to prevent pvp using... alternative methods
+A simple spigot plugin to prevent pvp using... alternative methods
