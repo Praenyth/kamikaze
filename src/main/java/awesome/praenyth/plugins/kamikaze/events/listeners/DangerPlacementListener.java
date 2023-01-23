@@ -1,4 +1,4 @@
-package awesome.praenyth.plugins.kamikaze.events;
+package awesome.praenyth.plugins.kamikaze.events.listeners;
 
 import org.bukkit.*;
 import org.bukkit.block.Block;
